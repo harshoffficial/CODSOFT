@@ -1,5 +1,7 @@
 # CODSOFT
-my internship with CodSoft , I was tasked with creating a  "personal portfolio" using CSS and HTML.
+my internship with CodSoft , 
+
+I was tasked with creating a  "personal portfolio" using CSS and HTML.
 
 second task is to create a "landing page" using HTML and CSS.
 
