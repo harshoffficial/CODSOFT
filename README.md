@@ -38,7 +38,12 @@ A stylish landing page for a hypothetical tech product.
 - Fully responsive
 
 **Preview:**  
-![Landing Page](images/landingpage.png)
+<p float="left">
+  <img src="images/5.png"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="images/6.png"/>
+</p>
+
 
 ---
 
@@ -51,7 +56,9 @@ A functional and interactive calculator built purely using JavaScript.
 - Mobile responsive
 
 **Preview:**  
-![Calculator](images/calculator.png)
+<p float="left">
+  <img src="images/7.png"/>
+</p>
 
 ---
 
