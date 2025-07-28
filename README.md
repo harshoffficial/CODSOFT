@@ -16,7 +16,7 @@ A sleek portfolio website to showcase my skills, projects, resume, and contact i
 - Mobile-friendly layout
 
 **Preview:**  
-![Portfolio](images/portfolio.png)
+![Portfolio](images/1.png)
 
 ---
 
