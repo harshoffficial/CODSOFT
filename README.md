@@ -57,6 +57,6 @@ A functional and interactive calculator built purely using JavaScript.
 
 ---
 
-## 📂 Folder Structure
+
 
 
